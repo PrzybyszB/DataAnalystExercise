@@ -10,7 +10,7 @@ Jako analityk masz zweryfikować tę hipotezę i podjąć decyzję:
 
 **Tniemy budżet czy inwestujemy dalej?**
 
-# Twoja analiza musi odpowiedzieć na pytania:
+# Pytania do analizy:
 
 ## 1. Rentowność netto
 
