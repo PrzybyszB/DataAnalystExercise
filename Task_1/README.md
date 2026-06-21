@@ -4,23 +4,14 @@ Nasz zespół Performance Marketingu oflagował konkretny segment użytkowników
 
 Zarząd rozważa całkowite wyłączenie kampanii dla tego segmentu w celu optymalizacji budżetu.
 
-# Twoje zadanie
-
-Jako analityk masz zweryfikować tę hipotezę i podjąć decyzję:
-
+# Podstawowe pytanie
 **Tniemy budżet czy inwestujemy dalej?**
 
-# Pytania do analizy:
+# Dodatkowe pytania do analizy:
 
 ## 1. Rentowność netto
 
 Czy segment jest faktycznie stratny, gdy weźmiemy pod uwagę `marketing_cost`?
-
-Oblicz:
-
-```text
-Profit = Revenue - Cost
-```
 
 ## 2. Lojalność vs. Transakcyjność
 
@@ -29,8 +20,6 @@ Czy zachowanie tych użytkowników w czasie (Retention/Lifetime Orders) uzasadni
 ## 3. Jakość danych
 
 Czy ufasz tym danym?
-
-Wskaż ewentualne anomalie, które mogą wpływać na wynik analizy.
 
 ## 4. Rekomendacja
 
@@ -47,13 +36,4 @@ Uzasadnij ją jedną, kluczową metryką.
 **Plik:** `users_orders.csv`
 
 ## Opis kolumn
-
 * `marketing_cost` – Bezpośredni koszt przypisany do zamówienia.
-* Pozostałe kolumny:
-
-  * `device`
-  * `channel`
-  * `country`
-  * `sessions_before_order`
-  * `lifetime_orders_so_far`
-  * itd.
